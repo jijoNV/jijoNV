@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jijo N Varghese
-- 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... AI/Machine Learning
+- 👀 I’m interested in ... Autonomous Systems
+- 🌱 I’m currently learning ... Deep Learning
+- 💞️ I’m looking to collaborate on ... AI/Machine Learning/Deep Learning
 - 📫 How to reach me ... https://www.linkedin.com/in/jijo-n-varghese/
 
 <!---
